@@ -4,7 +4,7 @@ A responsive one-page marketing website for a fictional software resale startup,
 
 ## 📌 Live Demo
 
-🌐 [Live Site](https://your-deployed-site-url.com)
+🌐 [Live Site](https://react-assignment-h2zs.vercel.app/)
 
 ## 📂 Project Features
 
